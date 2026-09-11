@@ -1,0 +1,23 @@
+{
+  "package": "Finance Agent Demo P0 data and rules materials",
+  "scope": "华东区；CNY；2025/2026年1—8月；管理口径毛利率",
+  "version": "SYNTH-V2",
+  "sections": {
+    "02_demo_data": [
+      "source_data/01_fee_revenue.xlsx",
+      "source_data/02_cost_expense.xlsx",
+      "source_data/03_budget.xlsx",
+      "source_data/04_product_master.xlsx",
+      "source_data/05_customer_master.xlsx",
+      "source_data/06_org_calendar_rules.xlsx",
+      "source_data/07_gl_control.xlsx",
+      "documentation/data_dictionary.xlsx",
+      "documentation/relationship_map.xlsx",
+      "documentation/material_tracker.xlsx"
+    ],
+    "04_data_processing_rules": [
+      "10_rules_and_golden.xlsx"
+    ]
+  },
+  "note": "脱敏合成 Demo 材料；真实源数据、责任人审批和最终业务口径仍待项目团队确认。"
+}
